@@ -1,5 +1,5 @@
 {
-  "name": "🔱Spสгτสn𝕭𝖔𝖙🔱",
+  "name": "🔱Fakeer🔱",
   "description": "One of the best Userbot for Telegram. Known for its Smoothness, Design, Support.",
   "logo": "https://telegra.ph/file/4055d9d4065beec4f5fae.jpg",
   "keywords": [
@@ -24,19 +24,19 @@
     },
     "HANDLER": {
       "description": "Your command handler. Default is ' . ' (dot).",
-      "value": "."
+      "value": "*"
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org",
-      "value": ""
+      "value": "21641657"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org",
-      "value": ""
+      "value": "fb9638ff3b85f04c8d5b1ae0ad61c4dd"
     },
     "ULTRONBOT_SESSION": {
       "description": "Get this value by using repl or termux. Refer to Repo for more info.",
-      "value": ""
+      "value": "AQCSNQ0aBUVFwGAEtst3LCoMaMpOmj_5AZYrUT4xevMwozp4-yTMp83DuM6DfUjcQ9gosKX-e5O3tgbHooiLEycba3IA47ZqcXWdDRcEloWFEtro1NZOVteHob-hrk93RtEMHJARt0mXlKFQCtHqvOzOSSvZBeFtOG33Q-ovT5how7IQNLas2I7JdSzDK_fX56qOOiU7gf9xJkHtWha7XaZP8x6NpDe1g8wTIgQ467df4EziR-TVWyiHW7IsGpf79fTA0gkybA1UnyL0Ikn9yh_b4pJWpeH32tn0_HXjklUEuCH7_zgX4XklGm7A2ERdD2M1QralFEY_hn51NVxGM04VAAAAAUHBrLIA"
     },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API. Required for updater to work.",
@@ -48,7 +48,7 @@
     },
     "BOT_TOKEN": {
       "description": "Make a bot from @BotFather and paste the bot token here.",
-      "value": ""
+      "value": "6227116035:AAHJJRfpnB86-yehcrcd1_tRpoldXXCcxbA"
     }
   },
   "addons": [{
